@@ -1,6 +1,7 @@
 # balastic
 
 A new Flutter project.
+This is a flutter app that is a ballastic calculator using complex calculation and uses sensors data like gyroscope, accelerometer, magnetometer to get some specific values required and many packages with dependencies
 
 ## Getting Started
 
